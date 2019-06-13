@@ -36,7 +36,7 @@ const defaultStyles = {
   },
   textInput: {
     backgroundColor: '#FFFFFF',
-    height: 22,
+    height: 24,
     borderRadius: 5,
     paddingTop: 4.5,
     paddingBottom: 4.5,
